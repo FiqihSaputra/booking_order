@@ -2,3 +2,4 @@
 
 from . import models
 from . import service_team
+from . import booking_order

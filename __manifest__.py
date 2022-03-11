@@ -18,7 +18,7 @@
     # for the full list
     'category': 'Administration',
     'version': '0.1',
-    'application':True,
+    'application': True,
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'sale', 'sale_management'],
@@ -30,6 +30,7 @@
         'views/templates.xml',
         'views/menu_views.xml',
         'views/service_team.xml',
+        'views/booking_order.xml',
 
 
     ],
